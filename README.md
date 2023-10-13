@@ -1,5 +1,5 @@
 # Login/Signup Auth App 
-
+![Screenshot (98)](https://github.com/warda231/login-signup-Auth-App-Firebase/assets/104501022/298d6c81-b4c8-4207-b4ac-fdc928f9b341)
 A new Flutter project.
 
 ## Getting Started
