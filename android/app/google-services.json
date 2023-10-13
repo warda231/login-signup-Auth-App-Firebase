@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16040205626",
+    "project_id": "loginauth-6577d",
+    "storage_bucket": "loginauth-6577d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16040205626:android:23a16cdfb8126ff6754403",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-bspuQOjRLBT1AE46aNYk0KeD3cFRTRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
